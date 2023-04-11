@@ -1,2 +1,2 @@
-# Laborat-rio-de-Programa-o
+# Laboratorio-de-Programacao
 Atividades da matéria
